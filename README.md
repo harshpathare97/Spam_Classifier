@@ -3,7 +3,7 @@
 A machine learning web application that classifies text messages as **Spam** or **Not Spam** using NLP techniques.
 
 ## 🚀 Live Demo
-https://harshpathare97-spam-classifier.streamlit.app
+https://spamclassifier-asx5gqbm2gjeklfu4krejb.streamlit.app
 
 ## 🧠 Model & Approach
 - Text preprocessing using TF-IDF
